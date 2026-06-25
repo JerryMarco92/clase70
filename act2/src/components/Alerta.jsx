@@ -15,7 +15,7 @@ return (
 
 function Funcionando(){
     return (
-        <p>El reactor esta trabajando con normalidad</p>
+        <button>Revisar estado</button>
     )
 }
 
@@ -23,6 +23,7 @@ function FalloCatastrofico() {
     return (
     
         <p>Corium detectado, avisando autoridades. Repito, corium detectado la fusion es inminente. Todos los protocolos de alerta maxima quedan activados.</p>
+        
     )
 }
 
